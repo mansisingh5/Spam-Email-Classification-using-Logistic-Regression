@@ -1,6 +1,5 @@
 # Spam-Email-Classification-using-Logistic-Regression-and-Text-Feature-Extraction-Techniques
 
-
 This Spam Mail Prediction project focuses on developing a machine learning model to classify emails as either "spam" or "ham" (not spam) using logistic regression. The process involves several key stages:
 1. Data Collection and Preprocessing:
 The dataset used contains two columns: "Message" (the email content) and "Category" (spam or ham label).
